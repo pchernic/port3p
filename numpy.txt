@@ -1,0 +1,22 @@
+NUMPY
+
+a)	Unidemensional array (3, ) 
+1 2 3 
+3 means the size, as an unidemensional array has only a line.
+
+b)	Bidemensional array (3,3)
+[0]	[1]	[2]  - imagine there's a header
+1 	2	 3	[0]
+1 	2 	 3 	[1]
+1 	2	 3	[2]
+- primeiro número do shape represenha a quantidade de linhas 
+- segundo a quantidade de colunas,
+- se acessarmos o item [1,2] = 3 
+		linha um, item dois
+
+c)	3d array
+
+is like a 2d array with others behind it. 
+
+um array tridimensional onde o primeiro shape permance sendo a quantidade de linhas, o segundo a de colunas e o terceiro a camada, logo a posição [0,0,0] representa o valor 1.
+
